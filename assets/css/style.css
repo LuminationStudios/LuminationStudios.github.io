@@ -9,7 +9,7 @@ html {
 }
 
 .hidden-section {
-  display: none;
+  visibility: hidden;
 }
 
 .blurple {
