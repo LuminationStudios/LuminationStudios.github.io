@@ -8,10 +8,6 @@ html {
   scroll-behavior: smooth;
 }
 
-.hidden-section {
-  visibility: hidden;
-}
-
 .blurple {
   color: #7289da;
 }
