@@ -205,6 +205,12 @@ nav.nav-w {
   color: #fff;
 }
 
+.button.is-blue {
+  background-color: #add8e6;
+  border-color: transparent;
+  color: #fff;
+}
+
 .single-feature {
   position: relative;
   z-index: 5;
