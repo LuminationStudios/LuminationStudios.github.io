@@ -94,12 +94,12 @@ html {
 
 nav,
 .navbar-menu {
-  background-color: #1a2634 !important;
+  background-color: #ffb6c1 !important;
 }
 
 .navbar-item.nav-dark,
 .navbar-link.nav-dark {
-  color: #363636 !important;
+  color: #ffb6c1 !important;
 }
 
 .navbar-item,
